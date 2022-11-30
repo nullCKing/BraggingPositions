@@ -1,0 +1,3 @@
+**__EXAMPLE__**:
+> !bts SPY 401.52 50 [Bought 50x $SPY at $401.52]
+> !bto SPY 12/2 395p [Bought $SPY put with $395 strike price, expiring on 12/2]
